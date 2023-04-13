@@ -59,7 +59,7 @@ To install and use the Coffee-Detective system, follow these steps:
 </ul>
 
 ## Project Report
-[https://github.com/nouraalsultan/Coffee-Detective-Practical-Software-Engineering/blob/main/Release_Template%20G3.pdf](https://github.com/nouraalsultan/Coffee-Detective-Practical-Software-Engineering/blob/main/Release_Template%20G3.pdf) to learn more about this project. 
+[https://github.com/HadeelQu/Coffee-Detective-Practical-Software-Engineering/blob/master/Release_Template%20G3.pdf](https://github.com/HadeelQu/Coffee-Detective-Practical-Software-Engineering/blob/master/Release_Template%20G3.pdf) to learn more about this project. 
 
 
 
